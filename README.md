@@ -22,3 +22,12 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
+Contribution:
+=============
+Revanth Atmakuri
+
+
+Work sited:
+===========
+https://www.linkedin.com/pulse/career-story-sundar-pichai-google-gem-rajat-taneja/
+https://blog.google/perspectives/sundar-pichai/
