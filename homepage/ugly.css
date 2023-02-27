@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: rgb(45, 184, 138);
 }
 
 .image {
@@ -27,6 +28,7 @@ body {
 .navbar li {
     display: inline-block;
     margin-right: 20px;
+    background-color: rgb(209, 165, 78);
 }
 
 .navbar li:last-child {
@@ -35,7 +37,7 @@ body {
 
 .navbar a {
     display: block;
-    color: rgb(33, 217, 73);
+    color: rgb(244, 247, 248);
     text-decoration: none;
     padding: 10px;
 }
@@ -60,6 +62,16 @@ body {
     padding: 0;
 }
 
+.content p {
+    margin: 1px;
+    background-color: rgb(66, 168, 69);
+}
+
+.content h1{
+    margin: 2px;
+    background-color: rgb(129, 214, 103);
+}
+
 
 .image .sidebar {
     margin: 20px;
@@ -67,15 +79,17 @@ body {
     max-width: 60%;
     float: right;
     height: auto;
-    background-color: #0007c8;
+    background-color: #292eb3;
 }
 
 .image .sidebar h1 {
     margin-top: 0;
+    background-color: aqua;
 }
 
 .image .sidebar ul {
     margin: 0;
     padding: 0;
     list-style: none;
+    background-color: aqua;
 }
