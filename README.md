@@ -26,6 +26,10 @@ Contribution:
 =============
 Revanth Atmakuri
 
+Changes to project gutenberg HTML files:
+
+Removed the privous style elements from three HTML files and added this line "<link rel="stylesheet" type="text/css" href="style.css">" to adopt the style from the style.css 
+
 
 Work sited:
 ===========
